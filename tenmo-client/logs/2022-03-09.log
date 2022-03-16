@@ -1,0 +1,9 @@
+2022-03-09T11:23:10.1554096 404 : [{"timestamp":"2022-03-09T16:23:10.127+00:00","status":404,"error":"Not Found","message":"No message available","path":"/tenmo/balance1001"}]
+2022-03-09T11:26:23.1394426 500 : [{"timestamp":"2022-03-09T16:26:23.121+00:00","status":500,"error":"Internal Server Error","message":"Missing URI template variable 'userId' for method parameter of type Long","path":"/tenmo/balance/1001"}]
+2022-03-09T11:32:57.4610461 500 : [{"timestamp":"2022-03-09T16:32:56.468+00:00","status":500,"error":"Internal Server Error","message":"Missing URI template variable 'userId' for method parameter of type Long","path":"/tenmo/balance/1001"}]
+2022-03-09T12:03:52.0478031 500 : [{"timestamp":"2022-03-09T17:03:52.018+00:00","status":500,"error":"Internal Server Error","message":"Missing URI template variable 'userId' for method parameter of type Long","path":"/tenmo/balance/1001"}]
+2022-03-09T15:26:14.9282309 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-03-09T15:26:44.285354 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-03-09T15:28:08.6732118 401 : [no body]
+2022-03-09T15:28:37.0582833 500 : [{"timestamp":"2022-03-09T20:28:37.050+00:00","status":500,"error":"Internal Server Error","message":"Missing URI template variable 'userId' for method parameter of type Long","path":"/tenmo/balance/1001"}]
+2022-03-09T17:19:25.1752357 401 : [no body]
